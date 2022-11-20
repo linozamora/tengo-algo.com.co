@@ -1,0 +1,36 @@
+###idea base que hay que analizar y hacer cambios
+
+
+Lo que me gustaria hacer seria crear un sitio web, una app o cualquier tipo de implementacion virtual de una platafora 
+que permita a personas o usuarios encontrar lo que buscan al estilo uber pero tambien al estilo mercadolibre de una forma mas rapida 
+y todo en uno
+
+1) ofrecer su servicio (mi idea esque una persona que quiera brindar algun tipo de servicio como, profesor por horas,
+  chef o cocinero, peluqueria, limpiador de casa etc) ofrecerlo al estilo uber como el mas cercano en la zona pero implementar un metodo de validacion de mucha seguridad para generar confiabilidad pero tambien la idea es que no lo haga de una forma simple si no con el slogan de TENGOALGO que ofrecerles......bla bla
+
+2) Ofrecer un producto creados por ellos mismos (aplicar algo innvoador para esto que busquen la forma de venderlo diciando algo
+como una palabra cotidiana tengo algo para ustede, tengo algo que vender, tego algo que podria interesar .......)
+
+3) Ofrencer canjes de personas a personas y la plataforma va a ser el medio seguro el intermediario, alquiler de terrenos
+ y cualquier producto que usted no use y no quiera vender bajo una buena confiabilidad
+
+tengo algo que cambiar o cangear
+tengo un lote que arrendar
+tengo un taladro que casi no uso para alquilar
+
+como no generar descofiaza y no ir hasta la casa a regocer
+encontrar una forma segura d hacer
+
+encontrar un punto seguro en comun, como estaciones de policia, centros comerciales o tu casa
+el lugar que se cnsidere mas seguro para hacerlo
+
+o pensando en un futuro contratar domiciliarios en la plataforma stilo rapi que se encarguen del traslado de lo que se va alquilar
+ejemplo un tipo de herramienta, una plata electrica un taladro cosas asi.
+
+
+si son cosas uy grandes hay que mirar si se le puede hacer incluir en la plataforma a los montacargas que quisas no esten 
+ocupados la mayor parte del dia osea es como un uber el mas cercano pero no lleva personas si no por ejemplo trateos, lavadoras
+camas o nose 
+
+
+agregar ia reconocimiento de texto en la descrpcion que ponga el usuario para sacar categorias y caractersticas, tambien de imagenes para verfficar que no se ponga nada ilegal
